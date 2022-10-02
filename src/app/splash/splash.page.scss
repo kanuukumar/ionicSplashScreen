@@ -1,0 +1,17 @@
+.page-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+
+.name{
+    --background: blue;
+  
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 0, 255, 0.5);
+    margin: 10px;
+    animation-duration: 2;
+}
